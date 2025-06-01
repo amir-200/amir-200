@@ -4,7 +4,3 @@
 - 💞️ I’m looking to collaborate on anything just ask
 - 📫 How to reach me (amrshaikh382)this is my instagram id 
 
-<!---
-amir-200/amir-200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
